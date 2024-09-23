@@ -1,4 +1,4 @@
----
+--
 title: Simple Theme
 layout: post
 permalink: /simple/
